@@ -6,7 +6,7 @@ Este projeto de modelo conceitual foi proposto pelo Bootcamp Suzano - Análise d
 - Os produtos são vendidos por uma única plataforma online, porém, estes podem ter vendedores distintos (terceiros)
 - Um ou mais produtos podem compôr um pedido
 - O cliente pode ser PF ou PJ
-- Um cliente pode comprar mais de um pedido. Este tem um período de carência para devolução do pedido.
+- Um cliente pode fazer mais de um pedido. Este tem um período de carência para devolução do pedido.
 
 ### Ferramenta utilizada:
 - MySQL Workbench
